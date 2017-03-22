@@ -89,4 +89,9 @@
     <!-- Mobile network settings, COLP -->
     <string name="connected_line_identification_title">Connected line identification</string>
     <string name="connected_line_identification_summary">Disable this option if the numbers of the recipients don\'t show up in the call history</string>
+    
+    <!-- Call recording format -->
+    <string name="call_recording_format">Call recording format</string>
+    <string name="wb_amr_format" translatable="false">AMR-WB</string>
+    <string name="aac_format" translatable="false">AAC</string>
 </resources>
